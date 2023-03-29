@@ -29,7 +29,7 @@ Hi, I'm Abhikalp Srivastava!
 🌟 Languages: Python, C++
 </pre>
 <hr>
-<img width = "22%" img height="25%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
+<img width = "30%" img height="35%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
 <p align="center">
 ## 🤝 Connect with me
 <p align="center">
@@ -61,8 +61,8 @@ Hi, I'm Abhikalp Srivastava!
 <br/>
 <p align="center">
 	<a href="https://github.com/abhisri15">
-	<img width="35%" src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="abhisri15">
-	<img width="35%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="abhisri15">
+	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="abhisri15">
+	<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="abhisri15">
 </a>
 	<br/>
 </p>
