@@ -61,8 +61,8 @@ Hi, I'm Abhikalp Srivastava!
 <br/>
 <p align="center">
 	<a href="https://github.com/abhisri15">
-	<img width="25%" src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="abhisri15">
-	<img width="25%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="abhisri15">
+	<img width="32%" src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="abhisri15">
+	<img width="32%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="abhisri15">
 </a>
 	<br/>
 </p>
