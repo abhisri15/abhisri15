@@ -29,7 +29,7 @@ Hi, I'm Abhikalp Srivastava!
 🌟 Languages: Python, C++
 </pre>
 <hr>
-<img width = "30%" img height="35%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
+<img width = "30%" img height="45%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
 <p align="center">
 ## 🤝 Connect with me
 <p align="center">
