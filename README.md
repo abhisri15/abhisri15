@@ -14,7 +14,7 @@ Hi, I'm Abhikalp Srivastava!
 <br/>
 <p align="center">
 	<a href="https://github.com/abhisri15">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning+Enthusiast;Back+End+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Machine+Learning;Back+End+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
