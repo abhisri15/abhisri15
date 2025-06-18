@@ -1,80 +1,73 @@
 <h1 align="center">
-Hi, I'm Abhikalp Srivastava!
-	<a href="https://github.com/abhisri15" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
+  Hi, I'm Abhikalp Srivastava! 👋  
+  <a href="https://github.com/abhisri15"><img src="https://komarev.com/ghpvc/?username=abhisri15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" /></a>
 </h1>
-	<a href="https://github.com/abhisri15">
-		<img src="https://komarev.com/ghpvc/?username=abhisri15&label=Profile%20views&color=0e75b6&style=flat" alt="abhisri15" />
-	</a>
-	<a href="https://github.com/abhisri15">
-		<img src="https://img.shields.io/github/followers/abhisri15?label=Followers" alt="abhisri15" />
-	</a>
-</p>
-<br/>
+
 <p align="center">
-	<a href="https://github.com/abhisri15">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Machine+Learning;Back+End+Developer;Cloud+Computing+Enthusiast;Always%20learning%20new%20things&center=true&width=380&height=45">
-	</a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=1000&width=480&lines=Machine+Learning+Developer;Back-End+Engineer;Cloud+Enthusiast;Always+Learning" alt="Typing SVG" />
 </p>
 
-<hr>
+---
 
-<pre>
-💻 I am a self taught Machine Learning Developer
-📚 I am doing Bachelors in Computer Science at IIIT Bhubaneswar
-📝 I have a strong interest in Data Science and Artificial Intelligence
-🔭 Working on Deep Learning & Machine Learning
-🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Languages: Python, C++
-</pre>
-<hr>
-<img width = "30%" img height="65%" align="right" alt="PIC" height="300px" src="https://www-res.cablelabs.com/wp-content/uploads/2019/06/17112157/featured_blog_image2-768x307.jpg" />
-<p align="center">
-## 🤝 Connect with me
-<p align="center">
-	<a href="mailto:abhikalp15092003@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/abhikalp-srivastava-00ab4122a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/abhisri15"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
-	<a href="https://www.kaggle.com/abhikalpsrivastava15"><img src="https://img.shields.io/badge/kaggle-%230A66C2.svg?style=plastic&logo=kaggle&logoColor=white" alt="Kaggle"/></a>
-</p>
+## About Me 😊
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-</br>
+✔ Self-taught Machine Learning & Backend developer  
+🎓 B.Tech in Computer Science, IIIT Bhubaneswar  
+🧠 Passionate about Data Science, AI, and Computer Vision  
+🔭 Currently working on deep learning and scalable backend systems  
+💡 Exploring MLOps, AWS architectures, and real-time inference pipelines  
+🔧 Tech Stack: Python · C++ · Flask · Pandas · OpenCV · TensorFlow · Scikit-learn · MySQL · AWS
 
-<!--
-### 👨🏽‍💻 Workspace
-<p>
-    <a href="https://github.com/abhisri15"><img alt="Macbook Air M1" src="https://img.shields.io/badge/Apple-MacBook_Air_2020-999999?style=for-the-badge&logo=apple&logoColor=white"></a>
-    <a href="https://github.com/abhisri15"><img alt="Spotify" src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
-</p>
--->
+---
 
+## 🔧 Skills
 
-## <a href="https://github.com/abhisri15"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazonaws&logoColor=white)
 
-<br/>
-<summary><b>⚡ abhisri15's Stats</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/abhisri15">
-	<img width="40%" src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false" alt="abhisri15">
-	<img width="40%" src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="abhisri15">
-</a>
-	<br/>
-</p>
-<br/>
-<!--
-<summary><b>⚡ Activity graph</b></summary>
-<br/>
-<p align="center">
-	<a href="https://github.com/abhisri15">
-		<img src="https://activity-graph.herokuapp.com/graph?username=abhisri15&bg_color=ffffff&color=000000&line=000000&point=000000&area=true&hide_border=true" alt="abhisri15">
-	</a>
-</p>
-<br/>
--->
-<h3>Thanks for Stopping by!! 😊</h3>
+---
+
+## 📫 Connect With Me
+
+[![Gmail](https://img.shields.io/badge/-Gmail-EA4335?logo=gmail&logoColor=white)](mailto:abhikalp15092003@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhikalp-srivastava-00ab4122a/)  
+[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abhikalpsrivastava15)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)](https://github.com/abhisri15)
+
+---
+
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhisri15&layout=compact&theme=midnight-purple)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhisri15&show_icons=true&theme=midnight-purple&include_all_commits=false)
+
+---
+
+## 🚀 What I’m Working On
+
+- 🧠 Enhanced **object detection pipeline** using TensorFlow + OpenCV on live camera feeds  
+- ☁️ Building a scalable **Flask microservice** with AWS EC2, API Gateway & RDS  
+- 🧪 Prototyping a **computer vision model** for automated quality inspection  
+
+---
+
+## 🎯 Interests & Learning
+
+- Diving deeper into **MLOps**, **Docker**, **Kubernetes**, and **CI/CD** for ML workflows  
+- Exploring **Transformers**, **GANs**, and **Image Segmentation**  
+- Contributing to **open source**, **Kaggle competitions**, and sharing knowledge through blogs and talks
+
+---
+
+## ⏳ Fun Fact
+
+I solve a Rubik’s cube in under 20 seconds while listening to lo-fi beats 🧩
+
+---
+
+Thank you for stopping by! 🙌
