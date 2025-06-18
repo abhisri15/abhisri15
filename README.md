@@ -1,6 +1,7 @@
 ## 💫 About Me
 
-👋 **Hi, I’m Abhikalp Srivastava**  
+<h1>👋 Hi, I’m <strong>Abhikalp Srivastava</strong></h1>
+
 *ML Enthusiast · Backend Developer · Cloud Architect · Lifelong Learner*
 
 ---
