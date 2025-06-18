@@ -1,76 +1,51 @@
-<!-- Banner + Profile Intro -->
-<div align="center">
-  <img src="YOUR_CUSTOM_HEADER_URL" alt="Header Banner" width="100%" />
-  <h1>👋 Hi, I’m **Abhikalp Srivastava**</h1>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&pause=800&width=500&lines=ML+Enthusiast;Backend+Developer;Cloud+Architect;Lifelong+Learner" alt="Typing Effect">
-</div>
+## 💫 About Me
+
+👋 **Hi, I’m Abhikalp Srivastava**  
+*ML Enthusiast · Backend Developer · Cloud Architect · Lifelong Learner*
 
 ---
 
-## 💼 About Me
-- 🎓 B.Tech in CSE at IIIT Bhubaneswar  
-- 🧠 Self-taught Machine Learning & Backend Engineer  
-- 🔭 Currently building scalable Flask APIs & deep learning pipelines  
-- 🌱 Learning MLOps: Docker, Kubernetes, CI/CD for ML workflows  
-- 📫 Reach me at [abhikalp15092003@gmail.com](mailto:abhikalp15092003@gmail.com)
+| 💼 **Quick Intro**                                                                              | 🛠 **Core Tech Stack**                              |
+|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|
+| 🎓 B.Tech in CSE @ **IIIT Bhubaneswar**                                                        | `Python` · `C++` · `TensorFlow` · `Flask`           |
+| 🔧 Self‑taught ML & Backend Engineer                                                           | `OpenCV` · `MySQL` · `GCP` · `Docker`                |
+| ⚙️ Building scalable **Flask APIs** & **Deep Learning Pipelines**                              |                                                     |
+| 📦 Learning MLOps: Docker · Kubernetes · CI/CD                                                 |                                                     |
+| 📧 [abhikalp15092003@gmail.com](mailto:abhikalp15092003@gmail.com)                             |                                                     |
 
 ---
 
-## 🛠 Tech Stack
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
+### 🎯 Current Focus & Learning Goals
+- 🔄 **MLOps & DevOps**: Production‑grade ML pipelines with Docker, Kubernetes & GitHub Actions  
+- 🧩 **System/API Design**: Scalable, maintainable microservices with observability & security  
+- 🧠 **Advanced AI Architectures**: Transformer‑based NLP, Reinforcement Learning, Multi‑agent systems  
 
 ---
 
-## 📊 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abhisri15&theme=midnight-purple&show_icons=true&include_all_commits=false&count_private=false" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=midnight-purple&hide_border=true" alt="Streak Stats" />
-</p>
+### 🚀 Upcoming Milestones
+1. 📦 Containerize ML inference on Kubernetes + Seldon/Kubeflow  
+2. 📊 Integrate real‑time monitoring & logging (Prometheus & Grafana)  
+3. 📈 Compete on Kaggle & publish insights on my ML blog  
+
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhikalp_sri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhikalp-srivastava-00ab4122a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhikalpsri.dev@gmail.com) 
+
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=abhisri15&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=abhisri15&theme=codeSTACKr&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ---
-## 🚀 Selected Projects & Highlights
+[![](https://visitcount.itsvg.in/api?id=abhisri15&icon=3&color=0)](https://visitcount.itsvg.in)
 
-| Project | What It Does | Technologies |
-|:------|:-------------|:-------------|
-| **Real‑Time Object Detector** | Deployed a live video feed object detector with sub‑200 ms latency using TensorFlow + OpenCV; optimized model with AWS Lambda for lightweight inference | Python · TensorFlow · OpenCV · AWS Lambda |
-| **Scalable ML API Service** | Architected a Flask‑based microservice on AWS (EC2, API Gateway, RDS) with Docker containerization and automated CI/CD | Flask · Docker · AWS EC2 · API Gateway · RDS · GitHub Actions |
-| **Automated Quality Inspection Tool** | Built an image‑based defect detection system using custom CNN models; integrated a pipeline for batch processing and report generation | Python · Keras · OpenCV · Pandas |
+  ## 💰 You can help me by Donating
+  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://buymeacoffee.com/abhisri15) 
 
-Browse more [projects on GitHub](https://github.com/abhisri15?tab=repositories) — includes Kaggle notebooks, research demos, and personal tools.
-
----
-
-## 🎯 Current Focus & Learning Goals
-
-- **MLOps & DevOps**: Building production-grade ML pipelines with Docker, Kubernetes, CI/CD (GitHub Actions), and reproducible ML environments  
-- **System & API Design**: Designing scalable, maintainable ML microservices—emphasizing observability, reliability, and security  
-- **Advanced AI Architectures**: Prototyping cutting-edge models—Transformer‑based NLP, reinforcement learning, multi‑agent / AI agent systems  
-- **Next Milestones**:  
-  - Containerizing ML inference with Kubernetes and serving via Seldon or Kubeflow  
-  - Integrating real-time monitoring and logging (Prometheus, Grafana)  
-  - Participating in Kaggle Competitions and publishing insights on ML blog
-
-Ready to elevate system design or deployment strategy? Let’s connect!  
-
----
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhikalp-srivastava-00ab4122a/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=white)](mailto:abhikalp15092003@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/abhikalpsrivastava15)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/abhisri15)
-
----
-
-## 🤓 Fun Fact
-I speed-solve a Rubik’s cube in under 60 seconds—while listening to lo‑fi beats! 🧩
-
----
-
-> **“Code + Coffee + Curiosity = Magic”**
+  
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
