@@ -1,52 +1,242 @@
-## 💫 About Me
+<div align="center">
 
-<h1>👋 Hi, I’m <strong>Abhikalp Srivastava</strong></h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhikalp%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20Native&descSize=18&descAlignY=58&descColor=a0aec0" />
 
-*ML Enthusiast · Backend Developer · Cloud Architect · Lifelong Learner*
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+UKG+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Microservices;2nd+Globally+%E2%80%94+UKG+Innovation+Hackathon+%F0%9F%8C%8D;IEEE+Published+Researcher+%F0%9F%93%84;CGPA+9.27%2F10+%E2%80%A2+IIIT+Bhubaneswar)](https://git.io/typing-svg)
 
----
+<br/>
 
-| 💼 **Quick Intro**                                                                              | 🛠 **Core Tech Stack**                              |
-|-----------------------------------------------------------------------------------------------|-----------------------------------------------------|
-| 🎓 B.Tech in CSE @ **IIIT Bhubaneswar**                                                        | `Python` · `C++` · `TensorFlow` · `Flask`           |
-| 🔧 Self‑taught ML & Backend Engineer                                                           | `OpenCV` · `MySQL` · `GCP` · `Docker`                |
-| ⚙️ Building scalable **Flask APIs** & **Deep Learning Pipelines**                              |                                                     |
-| 📦 Learning MLOps: Docker · Kubernetes · CI/CD                                                 |                                                     |
-| 📧 [abhikalp15092003@gmail.com](mailto:abhikalp15092003@gmail.com)                             |                                                     |
+<a href="https://linkedin.com/in/abhikalp-srivastava-00ab4122a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
+<a href="mailto:abhikalpsri.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
+<a href="https://abhikalpsri-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
+<a href="https://github.com/abhisri15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
----
+<img src="https://komarev.com/ghpvc/?username=abhisri15&style=for-the-badge&color=7c83fd&label=PROFILE+VIEWS" />
 
-### 🎯 Current Focus & Learning Goals
-- 🔄 **MLOps & DevOps**: Production‑grade ML pipelines with Docker, Kubernetes & GitHub Actions  
-- 🧩 **System/API Design**: Scalable, maintainable microservices with observability & security  
-- 🧠 **Advanced AI Architectures**: Transformer‑based NLP, Reinforcement Learning, Multi‑agent systems  
+</div>
 
 ---
 
-### 🚀 Upcoming Milestones
-1. 📦 Containerize ML inference on Kubernetes + Seldon/Kubeflow  
-2. 📊 Integrate real‑time monitoring & logging (Prometheus & Grafana)  
-3. 📈 Compete on Kaggle & publish insights on my ML blog  
+## 🧑‍💻 &nbsp;`whoami`
 
+```python
+class Abhikalp:
+    name        = "Abhikalp Srivastava"
+    role        = "Software Engineer @ UKG"
+    location    = "Bangalore, India 🇮🇳"
+    education   = "B.Tech CSE — IIIT Bhubaneswar | CGPA: 9.27 / 10.0"
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/abhikalp_sri/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abhikalp-srivastava-00ab4122a/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhikalpsri.dev@gmail.com) 
+    current_work = [
+        "Tenant-aware backend microservices for WFM scheduling",
+        "Agentic AI reconciliation pipeline (n8n + RAG + LLMs)",
+        "CI/CD pipelines, cloud-native deployments & observability",
+    ]
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=plastic&logo=nVIDIA&logoColor=green) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=plastic&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=plastic&logo=flask&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=plastic&logo=streamlit&logoColor=white) ![Gunicorn](https://img.shields.io/badge/gunicorn-%298729.svg?style=plastic&logo=gunicorn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=plastic&logo=sqlite&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=plastic&logo=gitlab&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=plastic&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=abhisri15&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abhisri15&theme=codeSTACKr&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&theme=codeSTACKr&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+    highlights = {
+        "🌍 Hackathon": "2nd Globally — UKG Innovation Hackathon (1000+ teams, w/ Tesla)",
+        "💰 Impact"   : "Mitigated $60M financial risk via production AI system",
+        "📄 Research" : "IEEE Published — ESIC 2024 International Conference",
+        "🏅 Awards"   : "UKG Celebrate U (Bronze) ×2  |  NXP Cheers for Peers ×2",
+    }
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+    fun_fact = "I shipped a production-ready AI MVP in ~2 weeks. ☕ → 🚀"
+```
 
 ---
-[![](https://visitcount.itsvg.in/api?id=abhisri15&icon=3&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/abhisri15) 
+## 💼 &nbsp;Experience
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 UKG &nbsp;·&nbsp; Software Engineer
+`Aug 2025 – Present` &nbsp;|&nbsp; Pune, India
+
+- Tenant-aware microservices for UKG WFM scheduling
+- Co-designed agentic AI reconciliation pipeline (n8n, RAG, LLMs) → **$60M risk mitigated**
+- **2nd globally** among 1000+ teams in UKG Innovation Hackathon (Tesla partnership)
+- Full ownership: feature delivery, prod incidents, CI/CD, observability
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 NXP India &nbsp;·&nbsp; Technical Intern
+`Jan 2025 – Jul 2025` &nbsp;|&nbsp; Bangalore, India
+
+- Python automation → **30% efficiency boost**, saved **200+ engineer-hours**
+- Delivered AI/ML training sessions globally across teams
+- Multi-label text classification pipeline: **78% accuracy · 92% recall**
+- Packaged ML models (LogReg/RF/SVM) for production deployment
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### &nbsp;🏢 MyParticipants &nbsp;·&nbsp; SWE Intern
+`Dec 2023 – Feb 2024` &nbsp;|&nbsp; Remote
+
+- Speech analytics with **Whisper API** + **PyAnnote-Audio**
+- Reduced WER by **15%**, diarization accuracy up **22%** across 500+ hours
+- Architected GCP infra (Cloud Storage + App Engine) → **35% cost reduction**
+
+</td>
+<td width="50%" valign="top">
+
+### &nbsp;🎓 IIIT Bhubaneswar
+`Dec 2021 – Jul 2025` &nbsp;|&nbsp; Bhubaneswar, India
+
+- B.Tech in Computer Science & Engineering
+- **CGPA: 9.27 / 10.0**
+- IEEE Researcher · Top 3 HackFest'23 (100+ teams)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🚀 &nbsp;Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+### 🌾 CropStop — AgroTech Analytics Platform
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+
+> Agricultural analytics platform deployed on GCP
+
+- 🔬 CNN crop disease detection — **98% accuracy**
+- 🌱 Random Forest recommendations — **95% accuracy**
+- 📈 Crop-price forecasting — **96% accuracy**
+- 👥 Served **100+ daily users** with real-time news ingestion
+
+</td>
+<td width="50%" valign="top">
+
+### 🍎 Secure Apple Leaf Disease Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
+![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)
+
+> Late-fusion CNN hybrid — IEEE Published at ESIC 2024
+
+- 🧪 Benchmarked 5 CNN architectures (VGG16/19, ResNet50/101, MobileNetV2)
+- 🏆 Late-fusion hybrid (ResNet50 + MobileNetV2) → **92.48% accuracy**
+- 📊 **3.2% above** individual model baselines
+- 📄 Presented at ESIC 2024 International Conference
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ &nbsp;Tech Stack
+
+#### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+#### Backend & APIs
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+#### Cloud & DevOps
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+#### AI / ML & Data
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LLMs](https://img.shields.io/badge/LLMs_&_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+#### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+---
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=abhisri15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83fd&text_color=c9d1d9&langs_count=8" height="170"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=tokyonight&hide_border=true&background=0d1117&ring=7c83fd&fire=ff6b6b&currStreakLabel=7c83fd" height="170"/>
+
+</div>
+
+---
+
+## 🏆 &nbsp;Trophies
+
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=abhisri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+---
+
+## 📈 &nbsp;Activity Graph
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisri15&bg_color=0d1117&color=7c83fd&line=7c83fd&point=ffffff&area=true&hide_border=true" />
+</div>
+
+---
+
+## 🎖️ &nbsp;Awards & Recognition
+
+| &nbsp; | Achievement |
+|:---:|---|
+| 🌍 | **2nd Globally** — UKG Innovation Hackathon among 1000+ teams (Tesla Partnership) |
+| 🏅 | **UKG Celebrate U Award (Bronze) ×2** — Production impact & team excellence |
+| 🏅 | **NXP India Cheers for Peers ×2** — Collaboration & 200+ hours saved via automation |
+| 📄 | **IEEE Published Researcher** — CNN plant disease detection, ESIC 2024 |
+| 🥉 | **Top 3 Finalist** — HackFest'23 ML Hackathon (100+ competing teams) |
+
+---
+
+## 🌐 &nbsp;Find Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhikalp-srivastava-00ab4122a)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white)](https://abhikalpsri-portfolio.netlify.app)
+&nbsp;
+[![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhisri15)
+&nbsp;
+[![Kaggle](https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abhisri15)
+&nbsp;
+[![OpenGenus](https://img.shields.io/badge/OpenGenus-Write-1abc9c?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://iq.opengenus.org/author/abhikalp)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Ship fast. Learn faster. Build things that matter."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+
+</div>
