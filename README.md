@@ -163,11 +163,7 @@ class Abhikalp:
 ### AI / ML
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
 
-</div>
-
 <br/>
-
-<div align="center">
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
@@ -198,24 +194,21 @@ class Abhikalp:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhisri15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" height="175"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12&cache_seconds=1800&hide=jupyter%20notebook" height="175"/>
-
-<br/><br/>
-
-<img src="https://streak-stats.demolab.com/?user=abhisri15&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="175"/>
-
-</div>
+<!-- Profile Summary Cards — hosted independently, not on paused Vercel instances -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhisri15&theme=tokyonight" width="95%"/>
 
 <br/>
 
----
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhisri15&theme=tokyonight" height="175"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=abhisri15&theme=tokyonight" height="175"/>
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhisri15&theme=tokyonight" height="175"/>
 
-## 🏆 &nbsp;Trophies
+<br/>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhisri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
+<img src="https://streak-stats.demolab.com/?user=abhisri15&theme=tokyonight&hide_border=true&background=1a1b27&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="175"/>
+
 </div>
 
 <br/>
@@ -225,7 +218,7 @@ class Abhikalp:
 ## 📈 &nbsp;Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisri15&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&radius=8" width="95%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisri15&bg_color=1a1b27&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&radius=8" width="95%"/>
 </div>
 
 <br/>
@@ -269,9 +262,7 @@ class Abhikalp:
 <br/>
 
 <div align="center">
-
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
-
 </div>
 
 <br/>
