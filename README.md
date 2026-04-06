@@ -253,7 +253,7 @@ class Abhikalp:
 &nbsp;
 [![LeetCode](https://img.shields.io/badge/LeetCode-Solve-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/abhisri15)
 &nbsp;
-[![Kaggle](https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abhisri15)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Compete-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/abhikalpsrivastava15)
 &nbsp;
 [![OpenGenus](https://img.shields.io/badge/OpenGenus-Write-1abc9c?style=for-the-badge&logo=read-the-docs&logoColor=white)](https://iq.opengenus.org/author/abhikalp)
 
