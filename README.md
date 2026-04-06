@@ -1,19 +1,20 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=210&section=header&text=Abhikalp%20Srivastava&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20Native&descSize=19&descAlignY=58&descColor=a78bfa" width="100%"/>
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Abhikalp%20Srivastava&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%A2%20AI%2FML%20%E2%80%A2%20Cloud%20Native&descSize=18&descAlignY=58&descColor=a0aec0" />
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=800&color=7C83FD&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+UKG+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Microservices;2nd+Globally+%E2%80%94+UKG+Innovation+Hackathon+%F0%9F%8C%8D;IEEE+Published+Researcher+%F0%9F%93%84;CGPA+9.27%2F10+%E2%80%A2+IIIT+Bhubaneswar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=750&lines=Software+Engineer+%40+UKG+%F0%9F%9A%80;Agentic+AI+%7C+LLMs+%7C+RAG+%7C+Microservices;2nd+Globally+%E2%80%94+UKG+Innovation+Hackathon+%F0%9F%8C%8D;IEEE+Published+Researcher+%F0%9F%93%84;CGPA+9.27%2F10+%E2%80%A2+IIIT+Bhubaneswar)](https://git.io/typing-svg)
 
 <br/>
 
 <a href="https://linkedin.com/in/abhikalp-srivastava-00ab4122a"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
 <a href="mailto:abhikalpsri.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
 <a href="https://abhikalpsri-portfolio.netlify.app"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox-browser&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/abhisri15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-<img src="https://komarev.com/ghpvc/?username=abhisri15&style=for-the-badge&color=7c83fd&label=PROFILE+VIEWS" />
+<a href="https://github.com/abhisri15"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+<img src="https://komarev.com/ghpvc/?username=abhisri15&style=for-the-badge&color=a78bfa&label=PROFILE+VIEWS"/>
 
 </div>
+
+<br/>
 
 ---
 
@@ -28,19 +29,21 @@ class Abhikalp:
 
     current_work = [
         "Tenant-aware backend microservices for WFM scheduling",
-        "Agentic AI reconciliation pipeline (n8n + RAG + LLMs)",
+        "Agentic AI reconciliation pipeline  (n8n + RAG + LLMs)",
         "CI/CD pipelines, cloud-native deployments & observability",
     ]
 
     highlights = {
-        "🌍 Hackathon": "2nd Globally — UKG Innovation Hackathon (1000+ teams, w/ Tesla)",
-        "💰 Impact"   : "Mitigated $60M financial risk via production AI system",
-        "📄 Research" : "IEEE Published — ESIC 2024 International Conference",
-        "🏅 Awards"   : "UKG Celebrate U (Bronze) ×2  |  NXP Cheers for Peers ×2",
+        "🌍 Hackathon" : "2nd Globally — UKG Innovation Hackathon (1000+ teams, w/ Tesla)",
+        "💰 Impact"    : "Mitigated $60M financial risk via production AI system (~2 weeks)",
+        "📄 Research"  : "IEEE Published — ESIC 2024 International Conference",
+        "🏅 Awards"    : "UKG Celebrate U (Bronze) ×2  |  NXP Cheers for Peers ×2",
     }
 
     fun_fact = "I shipped a production-ready AI MVP in ~2 weeks. ☕ → 🚀"
 ```
+
+<br/>
 
 ---
 
@@ -54,9 +57,9 @@ class Abhikalp:
 `Aug 2025 – Present` &nbsp;|&nbsp; Pune, India
 
 - Tenant-aware microservices for UKG WFM scheduling
-- Co-designed agentic AI reconciliation pipeline (n8n, RAG, LLMs) → **$60M risk mitigated**
-- **2nd globally** among 1000+ teams in UKG Innovation Hackathon (Tesla partnership)
-- Full ownership: feature delivery, prod incidents, CI/CD, observability
+- Agentic AI pipeline (n8n + RAG + LLMs) → **$60M risk mitigated**
+- **2nd globally** among 1000+ teams — UKG Innovation Hackathon
+- End-to-end ownership: features, prod incidents, CI/CD, observability
 
 </td>
 <td width="50%" valign="top">
@@ -64,9 +67,9 @@ class Abhikalp:
 ### &nbsp;🏢 NXP India &nbsp;·&nbsp; Technical Intern
 `Jan 2025 – Jul 2025` &nbsp;|&nbsp; Bangalore, India
 
-- Python automation → **30% efficiency boost**, saved **200+ engineer-hours**
-- Delivered AI/ML training sessions globally across teams
-- Multi-label text classification pipeline: **78% accuracy · 92% recall**
+- Python automation → **30% efficiency**, saved **200+ engineer-hours**
+- Delivered AI/ML training globally across engineering teams
+- Multi-label text classification: **78% accuracy · 92% recall**
 - Packaged ML models (LogReg/RF/SVM) for production deployment
 
 </td>
@@ -77,9 +80,9 @@ class Abhikalp:
 ### &nbsp;🏢 MyParticipants &nbsp;·&nbsp; SWE Intern
 `Dec 2023 – Feb 2024` &nbsp;|&nbsp; Remote
 
-- Speech analytics with **Whisper API** + **PyAnnote-Audio**
-- Reduced WER by **15%**, diarization accuracy up **22%** across 500+ hours
-- Architected GCP infra (Cloud Storage + App Engine) → **35% cost reduction**
+- Speech analytics: **Whisper API** + **PyAnnote-Audio** clustering
+- WER reduced by **15%**, diarization accuracy up **22%**
+- Architected GCP infra → **35% cloud cost reduction**
 
 </td>
 <td width="50%" valign="top">
@@ -95,6 +98,8 @@ class Abhikalp:
 </tr>
 </table>
 
+<br/>
+
 ---
 
 ## 🚀 &nbsp;Featured Projects
@@ -104,12 +109,13 @@ class Abhikalp:
 <td width="50%" valign="top">
 
 ### 🌾 CropStop — AgroTech Analytics Platform
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 
-> Agricultural analytics platform deployed on GCP
+> End-to-end agricultural analytics platform on GCP
 
 - 🔬 CNN crop disease detection — **98% accuracy**
 - 🌱 Random Forest recommendations — **95% accuracy**
@@ -120,15 +126,16 @@ class Abhikalp:
 <td width="50%" valign="top">
 
 ### 🍎 Secure Apple Leaf Disease Detection
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 ![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)
 
-> Late-fusion CNN hybrid — IEEE Published at ESIC 2024
+> Late-fusion CNN hybrid — IEEE Published, ESIC 2024
 
 - 🧪 Benchmarked 5 CNN architectures (VGG16/19, ResNet50/101, MobileNetV2)
-- 🏆 Late-fusion hybrid (ResNet50 + MobileNetV2) → **92.48% accuracy**
+- 🏆 ResNet50 + MobileNetV2 fusion → **92.48% accuracy**
 - 📊 **3.2% above** individual model baselines
 - 📄 Presented at ESIC 2024 International Conference
 
@@ -136,40 +143,54 @@ class Abhikalp:
 </tr>
 </table>
 
+<br/>
+
 ---
 
 ## 🛠️ &nbsp;Tech Stack
 
-#### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<div align="center">
 
-#### Backend & APIs
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+### Core Languages
+<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
 
-#### Cloud & DevOps
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### Backend & APIs
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mongodb&theme=dark" />
 
-#### AI / ML & Data
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LLMs](https://img.shields.io/badge/LLMs_&_RAG-412991?style=for-the-badge&logo=openai&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+### Cloud & DevOps
+<img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,git,linux&theme=dark" />
 
-#### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+### AI / ML
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=dark" />
+
+</div>
+
+<br/>
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![LLMs & RAG](https://img.shields.io/badge/LLMs_&_RAG-412991?style=flat-square&logo=openai&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+
+</div>
+
+<br/>
 
 ---
 
@@ -177,41 +198,55 @@ class Abhikalp:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=abhisri15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7c83fd&icon_color=7c83fd&text_color=c9d1d9" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=abhisri15&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&border_radius=12" height="175"/>
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7c83fd&text_color=c9d1d9&langs_count=8" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhisri15&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9&langs_count=8&border_radius=12&cache_seconds=1800&hide=jupyter%20notebook" height="175"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=abhisri15&theme=tokyonight&hide_border=true&background=0d1117&ring=7c83fd&fire=ff6b6b&currStreakLabel=7c83fd" height="170"/>
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com/?user=abhisri15&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&border_radius=12" height="175"/>
 
 </div>
+
+<br/>
 
 ---
 
 ## 🏆 &nbsp;Trophies
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abhisri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+<img src="https://github-profile-trophy.vercel.app/?username=abhisri15&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" />
 </div>
+
+<br/>
 
 ---
 
 ## 📈 &nbsp;Activity Graph
 
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisri15&bg_color=0d1117&color=7c83fd&line=7c83fd&point=ffffff&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhisri15&bg_color=0d1117&color=a78bfa&line=a78bfa&point=ffffff&area=true&area_color=a78bfa&hide_border=true&radius=8" width="95%"/>
 </div>
+
+<br/>
 
 ---
 
 ## 🎖️ &nbsp;Awards & Recognition
 
-| &nbsp; | Achievement |
-|:---:|---|
-| 🌍 | **2nd Globally** — UKG Innovation Hackathon among 1000+ teams (Tesla Partnership) |
-| 🏅 | **UKG Celebrate U Award (Bronze) ×2** — Production impact & team excellence |
+<div align="center">
+
+| &nbsp;&nbsp;&nbsp; | Achievement |
+|:---:|:---|
+| 🌍 | **2nd Globally** — UKG Innovation Hackathon among **1000+ teams** (Tesla Partnership) |
+| 🏅 | **UKG Celebrate U Award (Bronze) ×2** — Production impact & engineering excellence |
 | 🏅 | **NXP India Cheers for Peers ×2** — Collaboration & 200+ hours saved via automation |
-| 📄 | **IEEE Published Researcher** — CNN plant disease detection, ESIC 2024 |
+| 📄 | **IEEE Published Researcher** — CNN plant disease detection, presented at ESIC 2024 |
 | 🥉 | **Top 3 Finalist** — HackFest'23 ML Hackathon (100+ competing teams) |
+
+</div>
+
+<br/>
 
 ---
 
@@ -231,12 +266,14 @@ class Abhikalp:
 
 </div>
 
----
+<br/>
 
 <div align="center">
 
-*"Ship fast. Learn faster. Build things that matter."*
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer" />
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="75%"/>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=130&section=footer" width="100%"/>
