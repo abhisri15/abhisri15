@@ -108,36 +108,40 @@ class Abhikalp:
 <tr>
 <td width="50%" valign="top">
 
-### 🌾 CropStop — AgroTech Analytics Platform
+### 🤖 PrepAI — AI Interview Prep Platform
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
 
-> End-to-end agricultural analytics platform on GCP
+> Upload resume + JD → get a personalized AI interview prep kit
 
-- 🔬 CNN crop disease detection — **98% accuracy**
-- 🌱 Random Forest recommendations — **95% accuracy**
-- 📈 Crop-price forecasting — **96% accuracy**
-- 👥 Served **100+ daily users** with real-time news ingestion
+- 🎯 **ATS scoring** with 4-category analysis (skills, experience, education, keywords)
+- 🧠 **AI Q&A chatbot** with full resume + JD context via Groq (Llama 3.3 70B)
+- 📬 **7-day study plan** delivered via email (n8n + Gemini + Gmail)
+- 🔍 **Gap analysis** — highlights strengths vs. job requirements
+- ⚙️ TF-IDF RAG · SQLAlchemy ORM · React + Vite + Tailwind frontend
 
 </td>
 <td width="50%" valign="top">
 
-### 🍎 Secure Apple Leaf Disease Detection
+### 💬 NexusChat — Concurrent Multi-Room Chat
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![IEEE](https://img.shields.io/badge/IEEE-Published-00629B?style=flat-square&logo=ieee&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=flat-square&logo=socket.io&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=junit5&logoColor=white)
 
-> Late-fusion CNN hybrid — IEEE Published, ESIC 2024
+> Concurrent multi-room chat server in Java — WebSocket + raw TCP
 
-- 🧪 Benchmarked 5 CNN architectures (VGG16/19, ResNet50/101, MobileNetV2)
-- 🏆 ResNet50 + MobileNetV2 fusion → **92.48% accuracy**
-- 📊 **3.2% above** individual model baselines
-- 📄 Presented at ESIC 2024 International Conference
+- ⚡ **200+ simultaneous clients**, sub-5ms message latency target
+- 🔀 Dual-transport: browser UI (WebSocket) + CLI client (raw TCP)
+- 💾 Per-room message history (thread-safe circular buffer, last 50 msgs)
+- 📡 Live metrics at `/stats` — uptime, room count, per-room message counts
+- 🔁 Auto-reconnect with **exponential backoff** (1s → 30s cap)
+- 🧵 Producer-consumer, `ConcurrentHashMap`, `ExecutorService`, observer pattern
 
 </td>
 </tr>
@@ -152,10 +156,13 @@ class Abhikalp:
 <div align="center">
 
 ### Core Languages
-<img src="https://skillicons.dev/icons?i=python,java,cpp,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,ts,mysql&theme=dark" />
+
+### Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,html,css&theme=dark" />
 
 ### Backend & APIs
-<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mongodb&theme=dark" />
+<img src="https://skillicons.dev/icons?i=flask,fastapi,postgres,mongodb,redis&theme=dark" />
 
 ### Cloud & DevOps
 <img src="https://skillicons.dev/icons?i=gcp,docker,kubernetes,githubactions,git,linux&theme=dark" />
@@ -167,7 +174,11 @@ class Abhikalp:
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-FF6C37?style=flat-square&logo=postman&logoColor=white)
@@ -175,9 +186,12 @@ class Abhikalp:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square&logo=groq&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=google-gemini&logoColor=white)
 ![LLMs & RAG](https://img.shields.io/badge/LLMs_&_RAG-412991?style=flat-square&logo=openai&logoColor=white)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
